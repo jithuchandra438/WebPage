@@ -1,0 +1,152 @@
+    header{
+        border:groove 5px black;
+    background-color:lightcoral;
+color:white;
+padding:0;
+margin:0;
+overflow:hidden;
+    }
+
+    header img{
+        width:200px;
+        height:150px;
+        float:left;
+    }
+    header h1{
+        padding:2px;
+        margin:0;
+        text-align:center;
+    }
+    header h2{
+        padding:30px;
+        margin:0px;
+        text-align: center;
+    }
+    nav {
+        border:groove 2px black;
+        float:left;
+        background-color:lightcoral ;
+ 
+    }
+    nav li {
+        list-style-type:none;
+        float:left;
+    }
+    nav li a{
+
+        border:groove 2px black;
+        text-decoration: none;
+color:white;
+font-weight: bold;
+        padding:5px 70px 5px 70px;
+        margin:5px 20px 20px 33px;
+        display:block;
+    }
+     a:hover{
+        background-color:black;
+        color:white;
+        font-size:0.8em;
+    }
+    a:active{
+        background-color:black;
+           }
+    marquee{
+        margin-top:5px;
+        padding-top:5px;
+        border:double 3px black;
+padding:25px 0 ;
+
+    }
+
+    marquee img{
+        border:solid 5px black;
+    }
+        article{
+font-size:1.5em;
+width:60%;
+float:left;
+        }
+        report{
+          width:25%;
+           float:right;
+           font-weight: bold;
+            font-size:1.4em;
+            padding:0 50px;
+        }
+        report{        
+        margin-top:-980px;
+        background-color: lightcoral;
+        border:groove 2px black;
+    }
+    report  a{
+        color:white;
+    }
+    report h3{
+ padding-top:2px;
+color:black;
+ margin-top:20px;
+ text-align: center;   
+        background-color:lightcoral;
+        border:double 3px black;
+    }
+    article h1{
+        border:groove 2px black;
+        background-color:lightcoral ;
+        text-align: center;
+        padding-top:3px;
+        margin-top:-25px;
+    }
+.v1{
+    border-left: 6px solid black;
+    height:950px;
+    position:relative;
+    left:65%;
+    top:0;
+    margin-top: 50px;
+
+    }
+footer marquee{
+    border:double 4px black;
+    color:white;
+    font-size:2em;
+        background-color:lightcoral ;
+}
+span{
+    text-indent:50px;
+}
+
+#test{
+font-size:3em;
+ border:groove 5px lightcoral;
+    background-color:black;
+color:white;
+padding:0;
+margin:0;
+    }
+div.story{
+
+ border:groove 5px black;
+    background-color:lightcoral;
+color:white;
+}
+div.story1{
+
+ border:groove 5px black;
+    background-color:black;
+color:white;
+}
+div.story2{
+
+ border:groove 5px black;
+    background-color:lightcoral;
+color:white;
+}
+section img{
+border:solid 2px black;
+}
+div.b1
+{
+border:solid 10px black;
+background-color:black;
+color:white;
+}
